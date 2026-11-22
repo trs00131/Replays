@@ -1,4 +1,6 @@
-リポジトリの説明に LICENSE,README必読  ffmpeg.exe,replays.exeを同じフォルダに入れて下さい。
+まずreleaseからffmpeg.exe,replays.exe,LICENSE,READMEをダウンロードして下さい。
+
+LICENSE,README必読  ffmpeg.exe,replays.exeを同じフォルダに入れて下さい。
 
 入れたらreplays.exeをダブルクリックで起動。隠れているインジケーターにアイコンが追加されます。初期設定だとF9を押すことでインスタントリプレイを720p,30fps,30秒（変更可能）で取ることができて、ビデオフォルダに新しいフォルダーが作られてそこにmp4が保存されます（フォルダー変更可能）
 
